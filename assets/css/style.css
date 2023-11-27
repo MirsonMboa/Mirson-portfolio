@@ -76,15 +76,16 @@ p {
   border: medium none;
   border-radius: 0;
   color: #fff;
-  font-size: 12px;
+  font-size: 12px;  
   height: 50px;
   line-height: 50px;
   padding: 0 30px;
   text-transform: uppercase;
 }
 
-.btn:hover,
+.btn:hover, 
 .btn:focus {
+  background-color: #00FF00; 
   color: #fff;
 }
 
@@ -1544,3 +1545,6 @@ blockquote {
     margin-right: 0;
   }
 }
+
+
+
