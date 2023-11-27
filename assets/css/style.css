@@ -83,10 +83,8 @@ p {
   text-transform: uppercase;
 }
 
-.btn:hover, 
-.btn:focus {
-  background-color: #00FF00; 
-  color: #fff;
+.btn:hover {
+  background-color: #00FF00 !important;
 }
 
 .padDiv {
